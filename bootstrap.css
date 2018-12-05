@@ -1,0 +1,20 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+nav{
+	background-color:grey;
+}
+ div{
+	 text-align:center;
+ }
+ 
+ p{
+	 background-color:pink;
+ }
+ 
+ article{
+	 height:4em;
+	 
+ }
